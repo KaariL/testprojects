@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "502447419571",
+    "firebase_url": "https://testprojects-70e2e.firebaseio.com",
+    "project_id": "testprojects-70e2e",
+    "storage_bucket": "testprojects-70e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502447419571:android:9a4beaaa4122d5b6",
+        "android_client_info": {
+          "package_name": "e.kaari.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502447419571-lj4on8r3fk83vd74o4t5h8sbt5bfhglm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.kaari.myapp",
+            "certificate_hash": "a018d4549c0ac0eb4b465800601a83c4329f0b33"
+          }
+        },
+        {
+          "client_id": "502447419571-ea5fi31fu1vpc5kk1m4e1f88kotjvtsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" } ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502447419571-ea5fi31fu1vpc5kk1m4e1f88kotjvtsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
